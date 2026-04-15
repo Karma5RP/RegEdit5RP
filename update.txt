@@ -1,0 +1,4 @@
+version=1.1
+update_available=true
+message=🔥 ВЫШЛО ОБНОВЛЕНИЕ 1.1! Добавлены новые функции оптимизации!
+link=https://t.me/RegEdit5RP
