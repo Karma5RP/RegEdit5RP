@@ -1,4 +1,4 @@
-version=1.0
+version=2.0
 update_available=False
 message= ✅ У вас последняя версия! Ждите новых обновлений!
 link=https://t.me/RegEdit5RP
